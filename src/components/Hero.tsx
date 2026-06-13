@@ -96,7 +96,7 @@ export default function Hero({ onShopCatalog, onFilterCategory }: HeroProps) {
                 <div className="relative bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/20 text-center overflow-hidden flex flex-col items-center">
                   <div className="relative w-full h-56 bg-white rounded-xl p-3 flex items-center justify-center shadow-inner mb-3">
                     <img 
-                      src="/src/assets/images/strong_man_syrup_1781212742827.jpg" 
+                      src="/images/strong_man_syrup_1781212742827.jpg" 
                       alt="Strong Man Power" 
                       className="max-h-full object-contain hover:scale-105 transition-transform duration-300"
                     />
