@@ -1,0 +1,6 @@
+{
+  "name": "Merit Online Store",
+  "description": "Merit Online Store is a premium online shop featuring the authentic Strong Man Syrup, a powerful 100% natural organic biological remedy, with dynamic storefront, merchant management system, and dispatch logistics trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
