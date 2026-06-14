@@ -500,7 +500,7 @@ export default function App() {
                           -16% DIRECT OFFER
                         </span>
                         <img
-                          src="/images/strong_man_syrup_1781212742827.jpg"
+                          src="/images/herb00.png"
                           alt="Strong Man Syrup"
                           className="max-h-[160px] object-contain rounded-xl mx-auto"
                         />

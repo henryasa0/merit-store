@@ -23,7 +23,7 @@ export const INITIAL_PRODUCTS: Product[] = [
       'Supports optimal prostate health and cures low sperm count',
       '100% Natural organic blend with absolutely zero chemical side effects'
     ],
-    image: '/images/strong_man_syrup_1781212742827.jpg',
+    image: '/images/herb00.png',
     rating: 4.9,
     stock: 250,
     isFeatured: true,
